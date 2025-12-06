@@ -1,0 +1,6 @@
+Batman 20 6 3
+Superman 25 8 2
+Flash 22 7 4
+Wonder-Woman 25 7 2
+Shazam 20 6 3
+Aquaman 23 7 2

@@ -1,0 +1,5 @@
+Charmander 19 8 2
+Squirtle 20 7 3
+Bulbasaur 25 6 4
+Pikachu 21 7 2
+Eevee 22 8 2

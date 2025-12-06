@@ -1,0 +1,33 @@
+Comprehensive Lab 3 Report
+
+The new and update d battle Simulator, which lets you fight with characters from Pokemon, Star Wars, and more. 
+I completely rebuilt the code using Java classes and objects, so it runs way smoother now and actually keeps track of stats better. 
+I also added a custom "Sudden Death" mode where everyone starts with only 10 HP, so the battles are super fast and intense. 
+It’s honestly way more fun than the basic version because every turn actually counts, so you should definitely try it out if you want a quick match.
+
+What I Learned I finally figured out how to actually use Classes and Objects instead of just writing everything in one giant main method. 
+It was kinda confusing at first using this and setting up Constructors, but it makes way more sense now for keeping track of character stats.
+I also learned how to split my code across different files so they can talk to each other without breaking.
+
+Biggest Challenges The hardest part was definitely refactoring my old code from CL2 into the new Object-Oriented style.
+ I kept getting errors trying to access private variables between the Game and Character files, which was really annoying to debug. 
+Also, getting the recursive battle to stop at the right time was tricky because it kept crashing my program at first.
+
+Testing Report
+
+Test Case 1: Standard 1-Player Game
+
+Description: I started a normal game with Pokemon. I picked Pikachu and fought the computer, and the damage calculated correctly.
+
+
+
+Test Case 2: Invalid Input
+
+Description: I tried typing "hello" instead of a number at the menu. The program caught the error and didn't crash, it just asked me to try again.
+
+
+
+Test Case 3: Sudden Death Mode
+
+Description: I chose option 4 for my new mode. You can see in the screenshot that both players started with 10 HP like they were supposed to.
+

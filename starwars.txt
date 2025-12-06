@@ -1,0 +1,4 @@
+Anakin-Skywalker 25 8 2
+Mace-Windu 22 7 3
+Obi-Wan-Kenobi 21 6 2
+Ahsoka-Tano 23 7 3

@@ -1,0 +1,7 @@
+Ironman 22 7 4
+Spiderman 23 8 3
+Thor 25 9 2
+Captain-America 24 7 3
+Black-Widow 21 7 2
+Hulk 25 9 2
+Black-Panther 22 8 3
